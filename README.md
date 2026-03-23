@@ -1,4 +1,4 @@
-# EXPT 1: Computation-of-DFT-using-FFT-ALGORITHM
+# EXPT 1b: Computation-of-DFT-using-FFT-ALGORITHM
 
 ## AIM
 To perform and verify DFT using FFT-ALGORITHM by SCILAB.
